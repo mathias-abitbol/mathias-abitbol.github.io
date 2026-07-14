@@ -8,7 +8,7 @@ title: "Media & Policy"
 
 ::: {.media-list}
 
-[How can AI Address the Energy Efficiency Objectives in the Industry?](https://www.institut.veolia.org/en/how-can-ai-address-energy-efficiency-objectives-industry){target="_blank"} (with Philippe Aghion, Céline Antonin and Lint Barrage), **Veolia & Microsoft Joint Report**
+[How can AI Address the Energy Efficiency Objectives in the Industry?](https://www.institut.veolia.org/en/how-can-ai-address-energy-efficiency-objectives-industry){target="_blank"} (with Philippe Aghion, Céline Antonin and Lint Barrage), **Veolia & Microsoft Joint Report** [French version](https://www.institut.veolia.org/fr/comment-lia-peut-elle-contribuer-aux-objectifs-defficacite-energetique-lindustrie)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ title: "Media & Policy"
 
 ::: {.media-list}
 
-[L’État-providence va-t-il devenir un État-hospice ?](https://legrandcontinent.eu/fr/2026/01/26/demographie-etat-providence-retraites/){target="_blank"} (with Ferdinand Carré, Quentin Regnaud, Laure Arcizet, Antoine Hébert), **Le Grand Continent**
+[L’État-providence va-t-il devenir un État-hospice ?](https://legrandcontinent.eu/fr/2026/01/26/demographie-etat-providence-retraites/){target="_blank"} (with Ferdinand Carré, Quentin Regnaud, Laure Arcizet, Antoine Hébert), **Le Grand Continent** [spanish version](https://legrandcontinent.eu/es/2026/01/26/demografia-se-convertira-el-estado-del-bienestar-en-un-estado-hospicio/)
 
 [L'IA au service de la transitions énergétique](https://www.lesechos.fr/idees-debats/editos-analyses/lia-au-service-de-la-transition-energetique-2200027){target="_blank"} (with Philippe Aghion), **Les Echos**
 

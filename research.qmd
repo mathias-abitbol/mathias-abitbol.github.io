@@ -8,8 +8,6 @@ title: "Research"
 
 *Quasi-Experimental Evidence from the Water Treatment Sector*
 
-<div class="paper-authors">
-
 With Philippe Aghion, Céline Antonin, Lint Barrage, and Benjamin Lengereau.
 
 </div>
@@ -30,7 +28,6 @@ This paper studies the environmental effects of the large-scale deployment of AI
 
 ### The stock market value of corporate climate transition pledges
 
-<div class="paper-authors">
 
 With Renaud Coulomb.
 
@@ -52,7 +49,5 @@ Whether financial markets reward or penalize voluntary corporate decarbonization
 *Evidence from the Oil Industry*
 
 With Renaud Coulomb and Fanny Henriet.
-
-
 
 </div>

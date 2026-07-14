@@ -14,13 +14,15 @@ about:
       href: https://orcid.org/0009-0006-5006-4514
     - text: IDEAS/RePEc
       href: https://econpapers.repec.org/RAS/pab605.htm
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mathias-abitbol-6a48761ba/
 ---
 
-I am an economic researcher affiliated to the Ecole normale supérieure. My research focuses on the economics of the energy transition, at the intersection of environmental and energy economics, technological change, and corporate transformation.
+I am an economic researcher affiliated to the Ecole normale supérieure - PSL. My research focuses on the economics of the energy transition, at the intersection of environmental and energy economics, technological change, and corporate transformation.
 
-I was trained at the École normale supérieure, the Paris School of
-Economics, and HEC Paris. I worked on the EU Carbon
-Markets at the French Ministry of Economy, on residential energy efficiency and energy taxation at EDF, and on fossil-energy markets and stranded assets at Mines Paris.
+I was trained at the École normale supérieure, the Paris School of Economics, and HEC Paris. I worked on the EU Carbon Markets at the French Ministry of Economy, on residential energy efficiency and energy taxation at EDF, and on fossil-energy markets and stranded assets at Mines Paris.
+
+I am also the cofounder and president of [Daniel Cohen Conferences](https://laconferencedc.fr/). We organize high-level seminars gathering economists and public servants, and we interview policymakers and practitioners. 
 
 ## Research interests
 
@@ -42,4 +44,4 @@ and new technologies shape firms' energy use and decarbonization strategies.
 
 Institution: Ecole normale supérieure - PSL
 Department of Economics
-Email: mathias.abitbol[at]ens.fr
+Email: mathias.abitbol[at]ens[dot]fr

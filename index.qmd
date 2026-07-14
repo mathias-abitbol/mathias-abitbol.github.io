@@ -16,26 +16,30 @@ about:
       href: https://econpapers.repec.org/RAS/pab605.htm
 ---
 
-I am a researcher in economics affiliated with the Ecole normale supérieure - PSL.
+I am an economic researcher affiliated to the Ecole normale supérieure. My research focuses on the economics of the energy transition, at the intersection of environmental and energy economics, technological change, and corporate transformation.
 
-My research lies at the intersection of environmental economics,
-innovation, artificial intelligence, and industrial organization.
-I am particularly interested in how new technologies affect energy use,
-production processes, and the transition toward a low-carbon economy.
+I was trained at the École normale supérieure, the Paris School of
+Economics, and HEC Paris. I worked on the EU Carbon
+Markets at the French Ministry of Economy, on residential energy efficiency and energy taxation at EDF, and on fossil-energy markets and stranded assets at Mines Paris.
 
 ## Research interests
 
-Environmental economics · Artificial intelligence · Energy economics ·
-Innovation · Industrial decarbonization
+Environmental and energy economics · Economics of
+innovation and AI · Industrial decarbonization · Public Policy · Corporate
+transformation
 
-## Current research
+[See my research projects](research.qmd)
 
-My current work studies the economic and environmental consequences of artificial intelligence adoption, with a particular focus on energy-intensive industrial processes.
+## Research Statement 
 
-[See my research](research.qmd)
+I am particularly interested in how regulation, finance, and new technologies affect firms'
+energy use, production decisions, and decarbonization strategies. My work combines applied empirical research with close engagement with
+public institutions and firms. I study how regulation, taxation, finance,
+and new technologies shape firms' energy use and decarbonization strategies.
+
 
 ## Contact
 
-Institution\
-Department\
-Professional email
+Institution: Ecole normale supérieure - PSL
+Department of Economics
+Email: mathias.abitbol[at]ens.fr

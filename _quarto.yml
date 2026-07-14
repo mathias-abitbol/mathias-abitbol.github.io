@@ -8,14 +8,17 @@ project:
 
 website:
   title: "Mathias Abitbol"
+  favicon: images/portrait.jpeg
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
+      - href: media.qmd
+        text: Media & Policy
       - href: files/CV.pdf
-        text: CV
+        text: Resume
 
   page-footer:
     center: "© 2026 Mathias Abitbol"
@@ -23,6 +26,9 @@ website:
 format:
   html:
     theme: litera
+    include-in-header: 
+      text: |
+        <meta name="google-site-verification" content="google90f2a7c5db31d22e" />
     css: styles.css
     toc: false
     link-external-newwindow: true

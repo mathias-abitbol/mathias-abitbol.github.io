@@ -1,0 +1,34 @@
+---
+title: "Media & Policy"
+---
+
+## Policy Briefs
+
+### Green AI and Industrial Decarbonization
+
+::: {.media-list}
+
+[How can AI Address the Energy Efficiency Objectives in the Industry?](https://www.institut.veolia.org/en/how-can-ai-address-energy-efficiency-objectives-industry){target="_blank"} (with Philippe Aghion, Céline Antonin and Lint Barrage), **Veolia & Microsoft Joint Report**
+
+------------------------------------------------------------------------
+
+## Interview
+
+::: {.media-list}
+
+[Rendre l’économie accessible à tous, c'est renouer avec sa vocation : comprendre la société.](https://www.ens.psl.eu/actualites/mediation-scientifique-rendre-l-economie-accessible-tous-c-est-renouer-avec-sa-vocation){target="_blank"} (with Ferdinand Carré, Quentin Regnaud, Laure Arcizet), **ENS - PSL**
+
+------------------------------------------------------------------------
+
+
+## Press Contributions
+
+::: {.media-list}
+
+[L’État-providence va-t-il devenir un État-hospice ?](https://legrandcontinent.eu/fr/2026/01/26/demographie-etat-providence-retraites/){target="_blank"} (with Ferdinand Carré, Quentin Regnaud, Laure Arcizet, Antoine Hébert), **Le Grand Continent**
+
+[L'IA au service de la transitions énergétique](https://www.lesechos.fr/idees-debats/editos-analyses/lia-au-service-de-la-transition-energetique-2200027){target="_blank"} (with Philippe Aghion), **Les Echos**
+
+[Il faut réconcilier la révolution de l’IA avec nos objectifs environnementaux](https://www.lemonde.fr/idees/article/2025/11/02/il-faut-reconcilier-la-revolution-de-l-ia-avec-nos-objectifs-environnementaux_6651132_3232.html){target="_blank"} (with Philippe Aghion and Céline Antonin), **Le Monde**
+
+[Si l’Europe est déterminée à rattraper son retard sur les États-Unis, est-elle prête à le faire au détriment de sa cohésion interne ?](https://laconferencedc.github.io/laconferencedc/compte-rendu_2024.html) (with Laure Arcizet and Ferdinand Carré), **Conférence Daniel Cohen**

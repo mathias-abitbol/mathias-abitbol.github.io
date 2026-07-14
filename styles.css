@@ -1,1 +1,79 @@
 /* css styles */
+
+body {
+  font-size: 1.03rem;
+  line-height: 1.7;
+}
+
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  margin-top: 2.2rem;
+}
+
+.about-contents {
+  max-width: 760px;
+}
+
+details {
+  margin-top: 0.8rem;
+  margin-bottom: 1.8rem;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.paper-links {
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
+}
+
+.paper-authors {
+  margin-top: -0.4rem;
+  font-style: italic;
+}
+
+.paper-links {
+  margin-top: 0.8rem;
+  margin-bottom: 1.2rem;
+}
+
+.paper-links .btn {
+  margin-right: 0.35rem;
+  margin-bottom: 0.4rem;
+}
+
+.media-list p {
+  margin-top: 0;
+  margin-bottom: 0.9rem;
+  line-height: 1.5;
+}
+
+.media-list a {
+  text-decoration: none;
+}
+
+.media-list a:hover {
+  text-decoration: underline;
+}
+
+.media-list strong {
+  font-weight: 700;
+}

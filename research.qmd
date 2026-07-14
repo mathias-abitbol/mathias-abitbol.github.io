@@ -6,17 +6,20 @@ title: "Research"
 
 ### Green AI in Industry
 
-*Quasi-Experimental Evidence from the Water Treatment Sector*
+Quasi-Experimental Evidence from the Water Treatment Sector
 
-With Philippe Aghion, Céline Antonin, Lint Barrage, and Benjamin Lengereau.
+<div class="paper-authors">
+
+With Philippe Aghion, Céline Antonin, Lint Barrage and Benjamin Lengereau.
 
 </div>
 
 <div class="paper-links">
 
-[Current WP](files/papers/Draft_Green_AI.pdf){.btn .btn-primary .btn-sm target="_blank"}
+[Current WP](files/papers/Green_AI_WP.pdf){.btn .btn-primary .btn-sm target="_blank"}
 [CEPR WP](https://cepr.org/publications/dp21576){.btn .btn-secondary .btn-sm target="_blank"}
 [Slides](files/slides/Green_AI_slides.pdf){.btn .btn-outline-secondary .btn-sm target="_blank"}
+
 </div>
 
 <details>
@@ -29,11 +32,13 @@ This paper studies the environmental effects of the large-scale deployment of AI
 ### The stock market value of corporate climate transition pledges
 
 
+<div class="paper-authors">
+
 With Renaud Coulomb.
 
 </div>
-
 <details>
+
 <summary>Abstract</summary>
 
 **Abstract.**\
@@ -46,7 +51,9 @@ Whether financial markets reward or penalize voluntary corporate decarbonization
 ## Work in Progress
 
 ### Political Risk and Long-Term Investment
-*Evidence from the Oil Industry*
+Evidence from the Oil Industry
+
+<div class="paper-authors">
 
 With Renaud Coulomb and Fanny Henriet.
 

@@ -16,7 +16,7 @@ title: "Media & Policy"
 
 ::: {.media-list}
 
-[Rendre l’économie accessible à tous, c'est renouer avec sa vocation : comprendre la société.](https://www.ens.psl.eu/actualites/mediation-scientifique-rendre-l-economie-accessible-tous-c-est-renouer-avec-sa-vocation) - 02/07/26{target="_blank"} (with Ferdinand Carré, Quentin Regnaud, Laure Arcizet) , **ENS - PSL**
+[Rendre l’économie accessible à tous, c'est renouer avec sa vocation : comprendre la société.](https://www.ens.psl.eu/actualites/mediation-scientifique-rendre-l-economie-accessible-tous-c-est-renouer-avec-sa-vocation) - 02/07/26{target="_blank"} (with Laure Arcizet, Ferdinand Carré and Quentin Regnaud) , **ENS - PSL**
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ title: "Media & Policy"
 
 ::: {.media-list}
 
-[L’État-providence va-t-il devenir un État-hospice ?](https://legrandcontinent.eu/fr/2026/01/26/demographie-etat-providence-retraites/){target="_blank"} (with Ferdinand Carré, Quentin Regnaud, Laure Arcizet, Antoine Hébert) - 26/01/26, **Le Grand Continent** [spanish version](https://legrandcontinent.eu/es/2026/01/26/demografia-se-convertira-el-estado-del-bienestar-en-un-estado-hospicio/)
+[L’État-providence va-t-il devenir un État-hospice ?](https://legrandcontinent.eu/fr/2026/01/26/demographie-etat-providence-retraites/){target="_blank"} (with Laure, Arcizet, Ferdinand Carré, Quentin Regnaud and Antoine Hébert) - 26/01/26, **Le Grand Continent** [spanish version](https://legrandcontinent.eu/es/2026/01/26/demografia-se-convertira-el-estado-del-bienestar-en-un-estado-hospicio/)
 
 [L'IA au service de la transitions énergétique](https://www.lesechos.fr/idees-debats/editos-analyses/lia-au-service-de-la-transition-energetique-2200027){target="_blank"} (with Philippe Aghion) - 20/11/25, **Les Echos**
 

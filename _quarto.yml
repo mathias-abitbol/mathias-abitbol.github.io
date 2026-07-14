@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 project:
   type: website
   output-dir: docs
@@ -10,6 +9,7 @@ project:
 website:
   title: "Mathias Abitbol"
   favicon: images/portrait.jpeg
+
   navbar:
     left:
       - href: index.qmd
@@ -27,47 +27,10 @@ website:
 format:
   html:
     theme: litera
-    include-in-header: 
+    include-in-header:
       text: |
         <meta name="google-site-verification" content="google5b4fc1ff0d25fe09" />
     css: styles.css
     toc: false
     link-external-newwindow: true
     smooth-scroll: true
-=======
-project:
-  type: website
-  output-dir: docs
-  resources:
-    - ".nojekyll"
-    - "images/**"
-    - "files/**"
-
-website:
-  title: "Mathias Abitbol"
-  favicon: images/portrait.jpeg
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: media.qmd
-        text: Media & Policy
-      - href: files/CV.pdf
-        text: Resume
-
-  page-footer:
-    center: "© 2026 Mathias Abitbol"
-
-format:
-  html:
-    theme: litera
-    include-in-header: 
-      text: |
-        <meta name="google-site-verification" content="google5b4fc1ff0d25fe09" />
-    css: styles.css
-    toc: false
-    link-external-newwindow: true
-    smooth-scroll: true
->>>>>>> 96712e4ef32c060786d72b7a830bd5fb1309e9fc

@@ -1,0 +1,41 @@
+---
+title: "Mathias Abitbol"
+image: images/portrait.jpeg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - text: CV
+      href: files/CV.pdf
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=iJlQGsEAAAAJ&hl=en
+    - text: ORCID
+      href: https://orcid.org/0009-0006-5006-4514
+    - text: IDEAS/RePEc
+      href: https://econpapers.repec.org/RAS/pab605.htm
+---
+
+I am a researcher in economics affiliated with the Ecole normale supérieure - PSL.
+
+My research lies at the intersection of environmental economics,
+innovation, artificial intelligence, and industrial organization.
+I am particularly interested in how new technologies affect energy use,
+production processes, and the transition toward a low-carbon economy.
+
+## Research interests
+
+Environmental economics · Artificial intelligence · Energy economics ·
+Innovation · Industrial decarbonization
+
+## Current research
+
+My current work studies the economic and environmental consequences of artificial intelligence adoption, with a particular focus on energy-intensive industrial processes.
+
+[See my research](research.qmd)
+
+## Contact
+
+Institution\
+Department\
+Professional email

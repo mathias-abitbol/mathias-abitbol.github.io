@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - ".nojekyll"
+    - "images/**"
+    - "files/**"
+
+website:
+  title: "Mathias Abitbol"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: files/CV.pdf
+        text: CV
+
+  page-footer:
+    center: "© 2026 Mathias Abitbol"
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+    smooth-scroll: true

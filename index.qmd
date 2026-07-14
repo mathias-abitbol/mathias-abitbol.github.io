@@ -1,5 +1,7 @@
 ---
 title: "Mathias Abitbol"
+subtitle: "Environmental and Energy Economist"
+lang: en
 image: images/portrait.jpeg
 about:
   template: trestles
@@ -18,11 +20,15 @@ about:
       href: https://www.linkedin.com/in/mathias-abitbol-6a48761ba/
 ---
 
+::: {.home-bio}
+
 I am an economic researcher affiliated to the Ecole normale supérieure - PSL. My research focuses on the economics of the energy transition, at the intersection of environmental and energy economics, technological change, and corporate transformation.
 
 I was trained at the École normale supérieure, the Paris School of Economics, and HEC Paris. I worked on the EU Carbon Markets at the French Ministry of Economy, on residential energy efficiency and energy taxation at EDF, and on fossil-energy markets and stranded assets at Mines Paris.
 
 I am also the cofounder and president of [Daniel Cohen Conferences](https://laconferencedc.fr/). We organize high-level seminars gathering economists and public servants, and we interview policymakers and practitioners. 
+
+:::
 
 ## Research interests
 
@@ -34,11 +40,14 @@ transformation
 
 ## Research Statement 
 
+::: {.home-bio}
+
 I am particularly interested in how regulation, finance, and new technologies affect firms'
 energy use, production decisions, and decarbonization strategies. My work combines applied empirical research with close engagement with
 public institutions and firms. I study how regulation, taxation, finance,
 and new technologies shape firms' energy use and decarbonization strategies.
 
+:::
 
 ## Contact
 

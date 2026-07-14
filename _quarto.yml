@@ -9,6 +9,7 @@ project:
     
 website:
   title: "Mathias Abitbol"
+  site-url: "https://mathias-abitbol.github.io"
   favicon: images/portrait.jpeg
 
   navbar:

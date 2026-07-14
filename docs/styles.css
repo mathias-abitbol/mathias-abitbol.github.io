@@ -40,11 +40,6 @@ summary {
   font-weight: 600;
 }
 
-.paper-links {
-  margin-top: 0.7rem;
-  margin-bottom: 0.7rem;
-}
-
 .paper-authors {
   margin-top: -0.4rem;
   font-style: italic;
@@ -76,4 +71,13 @@ summary {
 
 .media-list strong {
   font-weight: 700;
+}
+
+/* Justification du texte de présentation de la page Home */
+.home-bio,
+.home-bio p {
+  text-align: justify !important;
+  text-align-last: left;
+  text-justify: inter-word;
+  hyphens: auto;
 }

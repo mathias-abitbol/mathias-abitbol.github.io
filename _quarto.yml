@@ -3,9 +3,10 @@ project:
   output-dir: docs
   resources:
     - ".nojekyll"
+    - "google5b4fc1ff0d25fe09.html"
     - "images/**"
     - "files/**"
-
+    
 website:
   title: "Mathias Abitbol"
   favicon: images/portrait.jpeg
@@ -27,9 +28,6 @@ website:
 format:
   html:
     theme: litera
-    include-in-header:
-      text: |
-        <meta name="google-site-verification" content="vLDy_KccYCM3idYXS8ZHEU1h7m61SxuPgFAP8l_zCTc" />
     css: styles.css
     toc: false
     link-external-newwindow: true

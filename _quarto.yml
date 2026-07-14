@@ -28,7 +28,7 @@ format:
     theme: litera
     include-in-header: 
       text: |
-        <meta name="google-site-verification" content="google90f2a7c5db31d22e" />
+        <meta name="google-site-verification" content="google5b4fc1ff0d25fe09" />
     css: styles.css
     toc: false
     link-external-newwindow: true

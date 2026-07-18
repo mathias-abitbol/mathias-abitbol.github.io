@@ -31,10 +31,15 @@ This paper studies the environmental effects of the large-scale deployment of AI
 
 ### The stock market value of corporate climate transition pledges
 
-
 <div class="paper-authors">
 
 With Renaud Coulomb.
+
+</div>
+
+<div class="paper-links">
+
+[Current WP](files/papers/Commitment_WP.pdf){.btn .btn-primary .btn-sm target="_blank"}
 
 </div>
 <details>

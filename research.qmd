@@ -31,17 +31,21 @@ This paper studies the environmental effects of the large-scale deployment of AI
 
 ### The stock market value of corporate climate transition pledges
 
-
 <div class="paper-authors">
 
 With Renaud Coulomb.
+
+</div>
+
+<div class="paper-links">
+
+[Current WP](files/papers/Commitment_WP.pdf){.btn .btn-primary .btn-sm target="_blank"}
 
 </div>
 <details>
 
 <summary>Abstract</summary>
 
-**Abstract.**\
 Whether financial markets reward or penalize voluntary corporate decarbonization pledges shapes the private sector's incentive to decarbonize. We assemble a global dataset of 558 time-stamped climate-commitment press releases by listed firms (2017–2023), sampled from a financial newswire to maximize the detectability of any market reaction. Announcements raise stock prices by a modest 0.25% on average (95% confidence interval 0.05–0.46%) over the first three trading days, after which the effect fades. Reactions are statistically indistinguishable across third-party certification labels and are significant only for US-listed firms. They do not increase with carbon-price stringency; if anything, they are largest where no carbon price applies. Within the United States, the anti-ESG backlash is associated with a relative two-percentage-point decline in announcement returns for exposed firms, alongside a sharp fall in those firms' share of global announcements. The financial incentive for public climate commitment is real but modest, short-lived and politically contingent.
 
 </details>
@@ -50,7 +54,7 @@ Whether financial markets reward or penalize voluntary corporate decarbonization
 
 ## Work in Progress
 
-### Political Risk and Long-Term Investment
+### Political Risk, Long-Term Investment and 
 Evidence from the Oil Industry
 
 <div class="paper-authors">
@@ -58,3 +62,10 @@ Evidence from the Oil Industry
 With Renaud Coulomb and Fanny Henriet.
 
 </div>
+
+%### Energy-Tax Reform and Heat-Pump Adoption:
+%Selection, Welfare, and Public Finance.
+%
+%<div class="paper-authors">
+%
+%</div>

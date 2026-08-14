@@ -3,11 +3,13 @@ project:
   output-dir: docs
   resources:
     - ".nojekyll"
+    - "google5b4fc1ff0d25fe09.html"
     - "images/**"
     - "files/**"
-
+    
 website:
   title: "Mathias Abitbol"
+  site-url: "https://mathias-abitbol.github.io"
   favicon: images/portrait.jpeg
 
   navbar:
@@ -27,9 +29,6 @@ website:
 format:
   html:
     theme: litera
-    include-in-header:
-      text: |
-        <meta name="google-site-verification" content="google5b4fc1ff0d25fe09" />
     css: styles.css
     toc: false
     link-external-newwindow: true

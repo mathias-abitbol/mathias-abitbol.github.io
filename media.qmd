@@ -4,7 +4,7 @@ title: "Media & Policy"
 
 ## Policy Briefs
 
-### AI and Energy
+### AI and Environment
 
 ::: {.media-list}
 
@@ -38,4 +38,4 @@ title: "Media & Policy"
 
 ::: {.media-list}
 
-[IA et environnement : audition de Philippe Aghion](https://videos.senat.fr/video.5836773_6a0d50bcad2c4.ia-et-environnement--audition-de-philippe-aghion){target="_blank"} - 16/04/26 **Commission d'enquête sénatoriale** 
+[IA et environnement : audition de Philippe Aghion](https://videos.senat.fr/video.5836773_6a0d50bcad2c4.ia-et-environnement--audition-de-philippe-aghion){target="_blank"} - 16/04/26, **Commission d'enquête sénatoriale** 

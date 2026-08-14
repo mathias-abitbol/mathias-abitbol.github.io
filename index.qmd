@@ -33,8 +33,8 @@ I am also the co-founder and president of [Daniel Cohen Conferences](https://lac
 ## Research interests
 
 Environmental and energy economics · Economics of
-innovation and AI · Industrial decarbonization · Public Policy · Corporate
-transformation
+innovation and AI · Public Policy · Corporate
+decarbonization · Green Finance · Energy security
 
 [See my research projects](research.qmd)
 
@@ -43,7 +43,7 @@ transformation
 ::: {.home-bio}
 
 I am particularly interested in how regulation, finance, and new technologies affect firms'
-energy use, production decisions, and decarbonization strategies. My work combines applied empirical research with close engagement with public institutions and firms. 
+energy use, production decisions, and decarbonization strategies. I also want to develop my understanding of how energy security and transition issues affect corporates' investment and financing decisions in the energy sector. My work combines applied empirical research with close engagement with public institutions and firms. 
 
 :::
 

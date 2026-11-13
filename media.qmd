@@ -8,13 +8,17 @@ title: "Media & Policy"
 
 ::: {.media-list}
 
-[How can AI Address the Energy Efficiency Objectives in the Industry?](https://www.institut.veolia.org/en/how-can-ai-address-energy-efficiency-objectives-industry){target="_blank"} (with Philippe Aghion, Céline Antonin and Lint Barrage) - mars 2026, **Veolia & Microsoft Joint Report** [[French version]](https://www.institut.veolia.org/fr/comment-lia-peut-elle-contribuer-aux-objectifs-defficacite-energetique-lindustrie)
+[Making AI more energy-efficient to ensure a successful transition](https://www.banque-france.fr/en/publications-and-statistics/publications/making-ai-more-energy-efficient-ensure-successful-transition) - 4/11/26, **Banque de France notepad**, Banque de France award laureate [[French version]](https://www.banque-france.fr/fr/publications-et-statistiques/publications/rendre-lia-sobre-pour-gagner-la-course-la-transition)
+
+[How can AI Address the Energy Efficiency Objectives in the Industry?](https://www.institut.veolia.org/en/how-can-ai-address-energy-efficiency-objectives-industry){target="_blank"} (with Philippe Aghion, Céline Antonin and Lint Barrage) - march 2026, **Veolia & Microsoft Joint Report** [[French version]](https://www.institut.veolia.org/fr/comment-lia-peut-elle-contribuer-aux-objectifs-defficacite-energetique-lindustrie)
 
 :::
 
 ### Policy Reform in France and Europe
 
 ::: {.media-list}
+
+[R(é)assurer les Européens. Mieux mutualiser les risques extrêmes que l’Europe a intégrés.](https://www.strategie-plan.gouv.fr/publications/reassurer-les-europeens-mieux-mutualiser-les-risques-extremes-que-leurope-integres){target="_blank"} (with Laure Arcizet and Quentin Regnaud) - 10/11/26, **Haut-Commissariat à la Stratégie et au Plan**, Prix Jean Monnet pour la Jeunesse laureate
 
 [L’État-providence va-t-il devenir un État-hospice ?](https://legrandcontinent.eu/fr/2026/01/26/demographie-etat-providence-retraites/){target="_blank"} (with Laure, Arcizet, Ferdinand Carré, Quentin Regnaud and Antoine Hébert) - 26/01/26, **Le Grand Continent** [[Spanish Version]](https://legrandcontinent.eu/es/2026/01/26/demografia-se-convertira-el-estado-del-bienestar-en-un-estado-hospicio/)
 
